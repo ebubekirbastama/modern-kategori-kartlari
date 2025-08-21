@@ -26,11 +26,6 @@ Amacı, modern web projelerinde **estetik, animasyonlu ve kullanıcı dostu** ka
 
 ---
 
-## 📸 Önizleme
-Her sürüm için canlı önizleme GIF/ekran görüntüsü eklenebilir.  
-
----
-
 ## 👨‍💻 Katkıda Bulunma
 Pull request ve issue açarak projeye katkıda bulunabilirsiniz.  
 
